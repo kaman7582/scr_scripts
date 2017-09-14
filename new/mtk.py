@@ -145,7 +145,7 @@ def Main():
 	new_reboot=1
 	return
 
-while run_rest_cmd < 1000:
+while run_rest_cmd < 10000:
 #get_mac()
 	#show()
 	Main()
